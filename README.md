@@ -50,7 +50,7 @@ backend/
 
    ```bash
    git clone https://github.com/DeepakRizal/Universal-chatRoom-app-backend.git
-   cd Universal-chatRoom-app-backend
+ 
 
 2.Install dependences
      npm install
